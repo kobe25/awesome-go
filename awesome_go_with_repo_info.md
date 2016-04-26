@@ -145,18 +145,18 @@ Command Line
 
 *Libraries for building Console Applications and Console User Interfaces*
 
--   [chalk](https://github.com/ttacon/chalk) <span> ★ 154, pushed 312 days ago </span> - Intuitive package for prettifying terminal/console output.
--   [color](https://github.com/fatih/color) <span> ★ 852, pushed 39 days ago </span> - Versatile package for colored terminal output.
--   [colourize](https://github.com/TreyBastian/colourize) <span> ★ 4, pushed 69 days ago </span> - Go library for ANSI colour text in terminals.
--   [go-colortext](https://github.com/daviddengcn/go-colortext) <span> ★ 142, pushed 9 days ago </span> - Go library for color output in terminals.
--   [gocui](https://github.com/jroimartin/gocui) <span> ★ 647, pushed 5 days ago </span> - Minimalist Go library aimed at creating Console User Interfaces.
+-   [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib) . <span>4637★ / very active </span>
+-   [termbox-go](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces. <span>1406★ / low </span> 
+-   [color](https://github.com/fatih/color) - Versatile package for colored terminal output. <span> 852★ / active </span> 
+-   [uiprogress](https://github.com/gosuri/uiprogress) - A flexible library to render progress bars in terminal applications. <span> 792★ / active</span> 
+-   [gocui](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces. <span> 647★ / very active </span> 
+-   [uilive](https://github.com/gosuri/uilive) - A library for updating terminal output in realtime. <span> 428★ / active </span> 
+-   [uitable](https://github.com/gosuri/uitable) - A library to improve readability in terminal apps using tabular data. <span> 328★ / very active </span> 
+-   [chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output. <span> 154★ / low </span>
+-   [go-colortext](https://github.com/daviddengcn/go-colortext) - Go library for color output in terminals. <span> 142★ / very active </span> 
+-   [termtables](https://github.com/apcera/termtables) - A Go port of the Ruby library [terminal-tables](https://github.com/tj/terminal-table) for simple ASCII table generation as well as providing markdown and HTML output <span> 51★ / low </span> 
+-   [colourize](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals. <span> 4★ / active </span>
 -   [gommon/color](https://github.com/labstack/gommon/tree/master/color) - Style terminal text.
--   [termbox-go](https://github.com/nsf/termbox-go) <span> ★ 1406, pushed 94 days ago </span> - Termbox is a library for creating cross-platform text-based interfaces.
--   [termtables](https://github.com/apcera/termtables) <span> ★ 51, pushed 139 days ago </span> - A Go port of the Ruby library [terminal-tables](https://github.com/tj/terminal-table) for simple ASCII table generation as well as providing markdown and HTML output
--   [termui](https://github.com/gizak/termui) <span> ★ 4637, pushed 18 days ago </span> - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib) .
--   [uilive](https://github.com/gosuri/uilive) <span> ★ 428, pushed 83 days ago </span> - A library for updating terminal output in realtime.
--   [uiprogress](https://github.com/gosuri/uiprogress) <span> ★ 792, pushed 83 days ago </span> - A flexible library to render progress bars in terminal applications.
--   [uitable](https://github.com/gosuri/uitable) <span> ★ 328, pushed 21 days ago </span> - A library to improve readability in terminal apps using tabular data.
 
 Configuration
 -------------
